@@ -1,0 +1,17 @@
+
+header{
+    text-align: center;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    padding-right: 25px;
+}
+a:hover{
+    color: brown;
+}
+$form-text-color{
+    color: pink;
+}

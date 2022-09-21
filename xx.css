@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    padding-right: 25px;
+}
+a:hover{
+    color: brown;
+}
+header{
+    text-align: center;
+}
